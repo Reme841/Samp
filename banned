@@ -1,0 +1,13 @@
+{
+  "servers": [
+    {
+      "id": "",
+      "serverId": "",
+      "userId": "",
+      "host": "",
+      "port": 0,
+      "bannedBy": "",
+      "reason": ""
+    }
+  ]
+}
