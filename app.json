@@ -1,6 +1,6 @@
 {
   "app_server_status": true,
-  "app_beta_status": false,
+  "app_beta_status": true,
   "game_version": "16.1",
   "game_url": "",
   "arz_status": true,
