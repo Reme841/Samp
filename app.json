@@ -1,10 +1,10 @@
 {
   "app_server_status": true,
-  "app_beta_status": false,
-  "game_version": "16.1",
+  "app_beta_status": true,
+  "game_version": "1.0.6",
   "game_url": "",
   "arz_status": true,
-  "arz_version": "16.3",
+  "arz_version": "1.0.6",
   "discord": "https://discord.gg/6uAFZapJaW",
   "changelog": "https://raw.githubusercontent.com/Reme841/Samp/refs/heads/main/changelog",
   "servers": "https://raw.githubusercontent.com/Reme841/Samp/refs/heads/main/servers",
